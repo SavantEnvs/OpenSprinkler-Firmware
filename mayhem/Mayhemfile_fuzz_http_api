@@ -1,0 +1,9 @@
+project: savantenvs/OpenSprinkler-Firmware
+target: fuzz_http_api
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_http_api/testsuite
+cmds:
+  - cmd: /mayhem/mayhem/out/fuzz_http_api
+    libfuzzer: true
+    timeout: 30

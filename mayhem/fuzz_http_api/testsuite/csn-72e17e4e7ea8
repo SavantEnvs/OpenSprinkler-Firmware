@@ -1,0 +1,3 @@
+GET /csn?sid=-1&type=4&input=3 HTTP/1.1
+Host: os
+

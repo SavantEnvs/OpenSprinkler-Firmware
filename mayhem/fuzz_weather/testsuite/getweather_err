@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: text/plain
+
+&errCode=12&scale=100&rd=24&sunrise=300&sunset=1200

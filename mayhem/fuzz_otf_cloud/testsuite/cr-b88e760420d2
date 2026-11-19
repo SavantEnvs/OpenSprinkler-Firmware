@@ -1,0 +1,4 @@
+FWD: ab12
+GET /cr?t=[120]&cnt=2&int=10 HTTP/1.1
+Host: os
+

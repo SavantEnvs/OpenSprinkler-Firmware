@@ -1,0 +1,11 @@
+# Build context for mayhem/Dockerfile (BuildKit reads this instead of upstream's root
+# .dockerignore, which drops .git — the commit image must carry the full history).
+# Only local build outputs and editor cruft are left out.
+mayhem/out/
+**/*.o
+OpenSprinkler
+node_modules
+.pio
+.DS_Store
+*.swp
+*~

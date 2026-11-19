@@ -1,0 +1,3 @@
+GET /cs?sid=0&csc=120 HTTP/1.1
+Host: os
+

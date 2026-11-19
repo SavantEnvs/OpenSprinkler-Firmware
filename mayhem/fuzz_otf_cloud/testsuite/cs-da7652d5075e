@@ -1,0 +1,4 @@
+FWD: ab12
+GET /cs?sid=3&st=4&sd=example.com,80,on,off&p0=9 HTTP/1.1
+Host: os
+

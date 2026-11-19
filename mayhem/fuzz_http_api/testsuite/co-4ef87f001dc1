@@ -1,0 +1,3 @@
+GET /co?sn1t=4&wl=77 HTTP/1.1
+Host: os
+

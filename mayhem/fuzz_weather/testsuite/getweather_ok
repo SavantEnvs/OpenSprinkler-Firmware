@@ -1,0 +1,5 @@
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Connection: close
+
+&scale=80&restricted=0&tz=48&sunrise=360&sunset=1110&eip=3232235777&rd=0&errCode=0&scales=[100,90,80,70,60]&rawData={"h":47,"p":0.1,"t":75.2,"raining":0}
